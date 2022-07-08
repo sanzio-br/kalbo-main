@@ -23,8 +23,8 @@ function App() {
         <Route exact path="/kalbo-main/safari-packages" element={<Events/>}/>
         <Route exact path="/kalbo-main/hire-ride" element={<Hire />} />
         <Route exact path="/kalbo-main/custom-safaris" element={<Custom />} />
-        <Route exact path="/kalbo/booking" element={<Booking />} />
-        <Route exact path="/kalbo/contact-us" element={<Contactpage />}/>
+        <Route exact path="/kalbo-main/booking" element={<Booking />} />
+        <Route exact path="/kalbo-main/contact-us" element={<Contactpage />}/>
         <Route
           exact
           path="/kalbo-main/safari-packages/:id"
