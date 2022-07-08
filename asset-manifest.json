@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kalbo-main/static/css/main.e6108111.css",
-    "main.js": "/kalbo-main/static/js/main.f7ddabb3.js",
+    "main.js": "/kalbo-main/static/js/main.aff1f5cb.js",
     "static/js/787.b99e6f21.chunk.js": "/kalbo-main/static/js/787.b99e6f21.chunk.js",
     "static/media/DSC_0334.jpg": "/kalbo-main/static/media/DSC_0334.dada29a2e0847f0d73a7.jpg",
     "static/media/SSI_0898.jpg": "/kalbo-main/static/media/SSI_0898.e49c90fdd2b9391a1cab.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.PNG": "/kalbo-main/static/media/logo.d1f63803c9e9cdbd980a.PNG",
     "index.html": "/kalbo-main/index.html",
     "main.e6108111.css.map": "/kalbo-main/static/css/main.e6108111.css.map",
-    "main.f7ddabb3.js.map": "/kalbo-main/static/js/main.f7ddabb3.js.map",
+    "main.aff1f5cb.js.map": "/kalbo-main/static/js/main.aff1f5cb.js.map",
     "787.b99e6f21.chunk.js.map": "/kalbo-main/static/js/787.b99e6f21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6108111.css",
-    "static/js/main.f7ddabb3.js"
+    "static/js/main.aff1f5cb.js"
   ]
 }
